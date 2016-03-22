@@ -4,7 +4,7 @@
 # Description
 
 This small tool can be used to track mail packages from about anywhere on the world thanks to 17track.net service. 
-Just call it passing the packages as arguments separated by spaces. By default it returns a JSON object for each package containing all its tracking history, but you can ge ta human readable text of the last event occurred with --format last_only.
+Just call it passing the packages as arguments separated by spaces. By default it returns a JSON object for each package containing all its tracking history, but you can get a human readable text of the last event occurred with --format last_only.
 
 ## Supported Carriers
 
