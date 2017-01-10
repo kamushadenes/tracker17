@@ -10,7 +10,7 @@ if os.path.exists('README.md'):
 setup(
   name = 'tracker17',
   packages = ['tracker17'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.2',
   description = '17Track.net Python API (Unnoficial)',
   long_description = long_description,
   author = 'Kamus Hadenes',
